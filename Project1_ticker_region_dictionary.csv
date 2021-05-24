@@ -1,0 +1,562 @@
+﻿Ticker,Region
+AGT,Argentina
+ARGT,Argentina
+ESEB,Argentina
+BRF,Brazil
+BRZU,Brazil
+BZQ,Brazil
+EWZ,Brazil
+EWZS,Brazil
+FBZ,Brazil
+FLBR,Brazil
+UBR,Brazil
+ECH,Chile
+GXG,Columbia
+ICOL,Columbia
+WIP,Columbia
+EMB,Latin America
+FLLA,Latin America
+FLN,Latin America
+ILF,Latin America
+LBJ,Latin America
+EPU,Peru
+EWW,Mexico
+FLMX,Mexico
+HEWW,Mexico
+MEXX,Mexico
+EGPT,Egypt
+EIS,Israel
+ISRA,Israel
+ITEQ,Israel
+IZRL,Israel
+NGE,Nigeria
+FLSA,Saudi Arabia
+KSA,Saudi Arabia
+EZA,South Africa
+AFK,Broad Africa
+ERUS,Russia
+RSX,Russia
+RUSL,Russia
+QAT,Qatar
+TUR,Turkey
+UAE,UAE
+BBAX,Devt AsiaPac exJap
+EPP,Devt AsiaPac exJap
+FPA,Devt AsiaPac exJap
+EWH,Hong Kong
+FLHK,Hong Kong
+EPI,India
+PAK,Pakistan
+FLIN,India
+GLIN,India
+INCO,India
+INDA,India
+INDF,India
+INDL,India
+INDY,India
+IXSE,India
+NFTY,India
+PIN,India
+SMIN,India
+EIDO,Indonesian
+IDX,Indonesian
+EWM,Malaysia
+CROC,Australia
+EWA,Australia
+FLAU,Australia
+FXA,Australia
+ENZL,New Zealand
+EWS,Singapore
+PTIN,Singapore
+EWY,South Korea
+FLKR,South Korea
+KORU,South Korea
+EWT,Taiwan
+FLTW,Taiwan
+VNM,Vietnam
+THD,Thailand
+EPHE,Philippines
+EWO,Austria
+EWK,Belgium
+EDEN,Denmark
+EFNL,Finland
+EWQ,France
+DAX,Germany
+DBGR,Germany
+DXGE,Germany
+EWG,Germany
+EWGS,Germany
+FGM,Germany
+HEWG,Germany
+EWI,Italy
+GREK,Greece
+EWN,Netherlands
+ENOR,Norway
+NORW,Norway
+EPOL,Poland
+EWD,Sweden
+EWL,Switzerland 
+FSZ,Switzerland 
+FXF,Switzerland 
+EWP,Spain
+PGAL,Portugal
+EIRL,Ireland
+EWU,UK
+EWUS,UK
+FKU,UK
+FXB,UK
+HEWU,UK
+GLD,Top 100
+IAU,Top 100
+SLV,Top 100
+VEU,Top 100
+VXUS,Top 100
+ACWI,Broad Devt Mkts
+ACWV,Broad Devt Mkts
+ACWX,Broad Devt Mkts
+ANGL,Broad Devt Mkts
+AOM,Broad Devt Mkts
+AOR,Broad Devt Mkts
+ARKF,Broad Devt Mkts
+ARKQ,Broad Devt Mkts
+BBEU,Broad Devt Mkts
+BBIN,Broad Devt Mkts
+BKLN,Broad Devt Mkts
+BNDX,Broad Devt Mkts
+BOTZ,Broad Devt Mkts
+BSCL,Broad Devt Mkts
+BSCN,Broad Devt Mkts
+CWI,Broad Devt Mkts
+EZU,Broad Devt Mkts
+FALN,Broad Devt Mkts
+FBND,Broad Devt Mkts
+FLOT,Broad Devt Mkts
+FLRN,Broad Devt Mkts
+FNDC,Broad Devt Mkts
+FNDF,Broad Devt Mkts
+FTSL,Broad Devt Mkts
+FV,Broad Devt Mkts
+GDX,Broad Devt Mkts
+GDXJ,Broad Devt Mkts
+GNR,Broad Devt Mkts
+GSIE,Broad Devt Mkts
+GSY,Broad Devt Mkts
+GUNR,Broad Devt Mkts
+HYS,Broad Devt Mkts
+IAGG,Broad Devt Mkts
+ICLN,Broad Devt Mkts
+ICSH,Broad Devt Mkts
+IDEV,Broad Devt Mkts
+IDV,Broad Devt Mkts
+IGF,Broad Devt Mkts
+IGIB,Broad Devt Mkts
+IOO,Broad Devt Mkts
+IQLT,Broad Devt Mkts
+IXC,Broad Devt Mkts
+IXJ,Broad Devt Mkts
+IXUS,Broad Devt Mkts
+JETS,Broad Devt Mkts
+KOMP,Broad Devt Mkts
+LIT,Broad Devt Mkts
+MINT,Broad Devt Mkts
+NEAR,Broad Devt Mkts
+NFRA,Broad Devt Mkts
+OIH,Broad Devt Mkts
+REET,Broad Devt Mkts
+ROBO,Broad Devt Mkts
+RODM,Broad Devt Mkts
+RWO,Broad Devt Mkts
+SCHC,Broad Devt Mkts
+SCHF,Broad Devt Mkts
+SMH,Broad Devt Mkts
+SOXL,Broad Devt Mkts
+SPAB,Broad Devt Mkts
+SPDW,Broad Devt Mkts
+SPIB,Broad Devt Mkts
+SRLN,Broad Devt Mkts
+TAN,Broad Devt Mkts
+USIG,Broad Devt Mkts
+VCIT,Broad Devt Mkts
+VCSH,Broad Devt Mkts
+VNLA,Broad Devt Mkts
+VNQI,Broad Devt Mkts
+VSGX,Broad Devt Mkts
+VSS,Broad Devt Mkts
+VT,Broad Devt Mkts
+VYMI,Broad Devt Mkts
+XT,Broad Devt Mkts
+ADRE,Broad Emerging Mkt
+BKEM,Broad Emerging Mkt
+BKF,Broad Emerging Mkt
+BSAE,Broad Emerging Mkt
+BSBE,Broad Emerging Mkt
+BSCE,Broad Emerging Mkt
+BSDE,Broad Emerging Mkt
+CEMB,Broad Emerging Mkt
+CEW,Broad Emerging Mkt
+CEY,Broad Emerging Mkt
+DBEM,Broad Emerging Mkt
+DEM,Broad Emerging Mkt
+DFAE,Broad Emerging Mkt
+DGRE,Broad Emerging Mkt
+DGS,Broad Emerging Mkt
+DMRE,Broad Emerging Mkt
+DVYE,Broad Emerging Mkt
+EAPR,Broad Emerging Mkt
+EBND,Broad Emerging Mkt
+ECON,Broad Emerging Mkt
+EDC,Broad Emerging Mkt
+EDIV,Broad Emerging Mkt
+EDOG,Broad Emerging Mkt
+EDZ,Broad Emerging Mkt
+EELV,Broad Emerging Mkt
+EEM,Broad Emerging Mkt
+EEMD,Broad Emerging Mkt
+EEMO,Broad Emerging Mkt
+EEMS,Broad Emerging Mkt
+EEMV,Broad Emerging Mkt
+EEMX,Broad Emerging Mkt
+EET,Broad Emerging Mkt
+EFIX,Broad Emerging Mkt
+EJAN,Broad Emerging Mkt
+EJUL,Broad Emerging Mkt
+ELD,Broad Emerging Mkt
+EM,Broad Emerging Mkt
+EMAG,Broad Emerging Mkt
+EMBD,Broad Emerging Mkt
+EMBH,Broad Emerging Mkt
+EMCB,Broad Emerging Mkt
+EMDV,Broad Emerging Mkt
+EMFM,Broad Emerging Mkt
+EMG,Broad Emerging Mkt
+EMGF,Broad Emerging Mkt
+EMHY,Broad Emerging Mkt
+EMIF,Broad Emerging Mkt
+EMLC,Broad Emerging Mkt
+EMQQ,Broad Emerging Mkt
+EMSG,Broad Emerging Mkt
+EMSH,Broad Emerging Mkt
+EMTL,Broad Emerging Mkt
+EMXC,Broad Emerging Mkt
+EMXF,Broad Emerging Mkt
+ESGE,Broad Emerging Mkt
+EUM,Broad Emerging Mkt
+EWX,Broad Emerging Mkt
+EYLD,Broad Emerging Mkt
+FAIL,Broad Emerging Mkt
+FEM,Broad Emerging Mkt
+FEMB,Broad Emerging Mkt
+FEMS,Broad Emerging Mkt
+FLQE,Broad Emerging Mkt
+FNDE,Broad Emerging Mkt
+GEM,Broad Emerging Mkt
+GSEE,Broad Emerging Mkt
+HEEM,Broad Emerging Mkt
+ISEM,Broad Emerging Mkt
+JEMA,Broad Emerging Mkt
+JHEM,Broad Emerging Mkt
+JPEM,Broad Emerging Mkt
+JPMB,Broad Emerging Mkt
+KEMQ,Broad Emerging Mkt
+KEMX,Broad Emerging Mkt
+LDEM,Broad Emerging Mkt
+LEMB,Broad Emerging Mkt
+MFEM,Broad Emerging Mkt
+NUEM,Broad Emerging Mkt
+OBOR,Broad Emerging Mkt
+PBEE,Broad Emerging Mkt
+PCY,Broad Emerging Mkt
+PIE,Broad Emerging Mkt
+PXH,Broad Emerging Mkt
+QEMM,Broad Emerging Mkt
+QLVE,Broad Emerging Mkt
+RESE,Broad Emerging Mkt
+RFEM,Broad Emerging Mkt
+RNEM,Broad Emerging Mkt
+ROAM,Broad Emerging Mkt
+SCHE,Broad Emerging Mkt
+SDEM,Broad Emerging Mkt
+SPEM,Broad Emerging Mkt
+TLTE,Broad Emerging Mkt
+UEVM,Broad Emerging Mkt
+VWO,Broad Emerging Mkt
+VWOB,Broad Emerging Mkt
+XCEM,Broad Emerging Mkt
+XSOE,Broad Emerging Mkt
+AAAU,Broad Global
+ARKX,Broad Global
+AVEM,Broad Global
+AWAY,Broad Global
+BAR,Broad Global
+BATT,Broad Global
+BCI,Broad Global
+BGRN,Broad Global
+BUG,Broad Global
+BYLD,Broad Global
+CDC,Broad Global
+COM,Broad Global
+COMB,Broad Global
+COPX,Broad Global
+DBB,Broad Global
+DIAL,Broad Global
+DMRL,Broad Global
+DUDE,Broad Global
+DWAW,Broad Global
+DWLD,Broad Global
+EBIZ,Broad Global
+ESPO,Broad Global
+FAN,Broad Global
+FFTI,Broad Global
+FIXD,Broad Global
+FLTB,Broad Global
+FMB,Broad Global
+FPXI,Broad Global
+GCC,Broad Global
+GCOR,Broad Global
+GINN,Broad Global
+HYEM,Broad Global
+IBND,Broad Global
+IDNA,Broad Global
+IEMG,Broad Global
+IFV,Broad Global
+IHAK,Broad Global
+IQDF,Broad Global
+IYLD,Broad Global
+JCPB,Broad Global
+JMBS,Broad Global
+KARS,Broad Global
+KRBN,Broad Global
+MSOS,Broad Global
+NUAG,Broad Global
+NUBD,Broad Global
+NXTG,Broad Global
+OGIG,Broad Global
+ONEQ,Broad Global
+ONLN,Broad Global
+PBD,Broad Global
+PGHY,Broad Global
+PICK,Broad Global
+PNQI,Broad Global
+PTNQ,Broad Global
+RAVI,Broad Global
+REMX,Broad Global
+SCHZ,Broad Global
+SDIV,Broad Global
+SGOV,Broad Global
+SIL,Broad Global
+SLVP,Broad Global
+SLX,Broad Global
+SOCL,Broad Global
+SSUS,Broad Global
+TDSD,Broad Global
+TFI,Broad Global
+UCON,Broad Global
+USCI,Broad Global
+VIDI,Broad Global
+YOLO,Broad Global
+AFTY,China
+ASHR,China
+ASHS,China
+ASHX,China
+CBON,China
+CHAD,China
+CHAU,China
+CHIC,China
+CHIE,China
+CHIH,China
+CHII,China
+CHIK,China
+CHIL,China
+CHIM,China
+CHIQ,China
+CHIR,China
+CHIS,China
+CHIU,China
+CHIX,China
+CHNA,China
+CN,China
+CNXT,China
+CNYA,China
+CQQQ,China
+CWEB,China
+CXSE,China
+CYB,China
+ECNS,China
+FCA,China
+FLCH,China
+FXI,China
+FXP,China
+GXC,China
+KALL,China
+KBA,China
+KBUY,China
+KCNY,China
+KEJI,China
+KESG,China
+KFVG,China
+KFYP,China
+KGRN,China
+KSTR,China
+KURE,China
+KWEB,China
+MCHI,China
+PGJ,China
+XPP,China
+YANG,China
+YINN,China
+YXI,China
+DBEF,EAFE
+DEFA,EAFE
+DMXF,EAFE
+EASG,EAFE
+EFA,EAFE
+EFAD,EAFE
+EFAS,EAFE
+EFAV,EAFE
+EFAX,EAFE
+EFG,EAFE
+EFO,EAFE
+EFU,EAFE
+EFV,EAFE
+EFZ,EAFE
+ESGD,EAFE
+HDEF,EAFE
+HEFA,EAFE
+HSCZ,EAFE
+IAPR,EAFE
+IEFA,EAFE
+IJAN,EAFE
+IJUL,EAFE
+QEFA,EAFE
+SCZ,EAFE
+VEA,EAFE
+BBJP,Japan
+DBJP,Japan
+DFJ,Japan
+DXJ,Japan
+DXJS,Japan
+EWJ,Japan
+EWJE,Japan
+EWJV,Japan
+EWV,Japan
+EZJ,Japan
+FJP,Japan
+FLJH,Japan
+FLJP,Japan
+FXY,Japan
+GSJY,Japan
+HEWJ,Japan
+HJPX,Japan
+IVLU,Japan
+JPN,Japan
+JPXN,Japan
+SCJ,Japan
+YCL,Japan
+YCS,Japan
+BBCA,Canada
+EWC,Canada
+FLCA,Canada
+FXC,Canada
+HEWC,Canada
+IPFF,Canada
+SGDM,Canada
+AGG,USA
+ARKK,USA
+BIL,USA
+BIV,USA
+BND,USA
+BSV,USA
+DGRO,USA
+DIA,USA
+DVY,USA
+ESGU,USA
+FVD,USA
+GOVT,USA
+GSLC,USA
+HYG,USA
+IBB,USA
+IEF,USA
+IEI,USA
+IGSB,USA
+IJH,USA
+IJR,USA
+ITOT,USA
+IUSB,USA
+IUSG,USA
+IUSV,USA
+IVE,USA
+IVV,USA
+IVW,USA
+IWB,USA
+IWD,USA
+IWF,USA
+IWM,USA
+IWN,USA
+IWO,USA
+IWP,USA
+IWR,USA
+IWS,USA
+IWV,USA
+JNK,USA
+JPST,USA
+LQD,USA
+MBB,USA
+MDY,USA
+MGK,USA
+MTUM,USA
+MUB,USA
+PFF,USA
+QQQ,USA
+QUAL,USA
+RSP,USA
+SCHA,USA
+SCHB,USA
+SCHD,USA
+SCHG,USA
+SCHP,USA
+SCHV,USA
+SCHX,USA
+SDY,USA
+SHV,USA
+SHY,USA
+SPLG,USA
+SPY,USA
+SPYG,USA
+SPYV,USA
+TIP,USA
+TLT,USA
+TQQQ,USA
+USMV,USA
+VB,USA
+VBK,USA
+VBR,USA
+VFH,USA
+VGK,USA
+VGSH,USA
+VGT,USA
+VHT,USA
+VIG,USA
+VLUE,USA
+VMBS,USA
+VNQ,USA
+VO,USA
+VOE,USA
+VOO,USA
+VOT,USA
+VTEB,USA
+VTI,USA
+VTIP,USA
+VTV,USA
+VUG,USA
+VV,USA
+VXF,USA
+VYM,USA
+XLC,USA
+XLE,USA
+XLF,USA
+XLI,USA
+XLK,USA
+XLP,USA
+XLU,USA
+XLV,USA
+XLY,USA

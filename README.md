@@ -25,14 +25,14 @@ Within the ETF universe, we used a funnel to output the top ETFs over different 
 We also considered ESC (Environmental, Social, and (Corporate) Governance) ratings, risk & volatilty vs return, and time horizon based on Mrs Buffet's age.
 
 ## Analysis also factoring in:
-What is the global distribution of ETFs?
-What are the top 9 performing ETF's?
-What was the daily returns distribution?
-How did the cumulative returns compare?
-What correlations are in the top 2 ETF's?
-How risky are the tops ETF's?
-How did the Sharpe Ratio's look?
-What companies are most green? *note partial data
+### What is the global distribution of ETFs?
+### What are the top 9 performing ETF's?
+### What was the daily returns distribution?
+### How did the cumulative returns compare?
+### What correlations are in the top 2 ETF's?
+### How risky are the tops ETF's?
+### How did the Sharpe Ratio's look?
+### What companies are most green? *note partial data
 
 # Data Sources used:
  - ETFdb.com for listings of ETFs from around the world which are traded in the USA.

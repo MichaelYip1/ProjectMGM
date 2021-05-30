@@ -24,10 +24,20 @@ Within the ETF universe, we used a funnel to output the top ETFs over different 
 ## What other factors do we need to consider for our final recommendation to Mrs Buffet?  
 We also considered ESC (Environmental, Social, and (Corporate) Governance) ratings, risk & volatilty vs return, and time horizon based on Mrs Buffet's age.
 
+## Analysis also factoring in:
+What is the global distribution of ETFs?
+What are the top 9 performing ETF's?
+What was the daily returns distribution?
+How did the cumulative returns compare?
+What correlations are in the top 2 ETF's?
+How risky are the tops ETF's?
+How did the Sharpe Ratio's look?
+What companies are most green? *note partial data
+
 # Data Sources used:
  - ETFdb.com for listings of ETFs from around the world which are traded in the USA.
  - yFinance for daily ETF close prices over the past decade.
- - ????????
+ - RapidAPI for ESG data points
 
 # Data exploration & clean up process:
 Daily close price data for 561 ETFs over a decade was obtained.  They had to be broken up into 30 smaller data requests and pulled into Jupyter Lab.
@@ -36,10 +46,13 @@ The top 20 ETFs from each timeframe were given a score based on their rank, and 
 From this process, a list of top 9 ETFs across all timeframes were selected.
 The data was then amended so the top 9 ETFs were reviewed using a consistent start date (7.5 years history), so they could be consistently compared based on cumulative returns, standard deviation, sharpe ratio.
 
-# ?????
-
 # Conclusions. This should include a numerical summary (i.e., what data did your analysis yield), as well as visualizations of that summary (plots of the final analysis data).
-STILL EED TO DO
+1. SOXL and TQQQ had the best returns however are 3x leveraged so high risk...
+2. The Vanguard fund VSBSX has the highest Sharpe Ratio and lowest standard deviation (and overall risk) although very low returns...
+3. MGM Consulting’s recommendation for Mrs Buffett would be the 3rd and 4th ranked ETF’s (SMH and ARKK) with good average returns and a good std dev and Sharpe Ratio.
+
+STILL NEED TO DO
+Include images/ dashboard and 
 
  Discuss the implications of your findings. This is where you get to have an open-ended discussion about what your findings mean.
 

@@ -1,9 +1,12 @@
 # Project1_Fintech_SydUni
-Project1_Fintech_course_SydneyUnicourse
+## Team: MGM - Mike Rae, Grace Ho, Michael Yip
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ### Class test on how to get branches of GitHub.
 =======
+=======
+>>>>>>> main
 # OLD LADY BUFFET
 
 REQUIRED (DELETE ONCE DONE): "Create a README.md in your repo with a write-up summarizing your major findings. 
@@ -61,6 +64,7 @@ Include images/ dashboard and
 
 
  Tell a good story! Storytelling through data analysis is no different than in literature. Find your narrative and use your analysis and visualization skills to highlight conflict and resolution in your data.
+<<<<<<< HEAD
 
 
 ![alt text](top_etf_cumrtn_plot.png)
@@ -72,3 +76,5 @@ Include images/ dashboard and
 ![alt text](ETF_barplot.png)
 ![alt text](ETF_mapplot.png)
 >>>>>>> Stashed changes
+=======
+>>>>>>> main

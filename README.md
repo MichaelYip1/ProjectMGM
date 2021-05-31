@@ -27,10 +27,12 @@ We also considered ESC (Environmental, Social, and (Corporate) Governance) ratin
  - RapidAPI for ESG data points
 
 ## Data exploration & clean up process:
-Refer to Project1_ticker_data.ipynb file.
+### Refer to Project1_ticker_data.ipynb file:
+
 Daily close price data for 561 ETFs over a decade was obtained.  They had to be broken up into 30 smaller data requests and pulled into Jupyter Lab.  
 
-Refer to Close_price_analysis.ipynb file.
+### Refer to Close_price_analysis.ipynb file:
+
 The cumulative returns were reviewed based on 4 time horizons: 1, 3, 5 and 10 year returns.  The top 20 ETFs for each of these time horizons were extracted, resulting in 51 ETFs.
 The top 20 ETFs from each timeframe were given a score based on their rank, and an overall ranking obtained over the 4 time horizons.
 From this process, a list of top 9 ETFs across all timeframes were selected.
@@ -39,27 +41,40 @@ The data was then amended so the top 9 ETFs were reviewed using a consistent sta
 
 ## Our analysis included consideration of:
  - The global distribution of ETFs.
+    
     ![ETF_BarPlot](ETF_barplot.png)
     ![ETF_mapplot](ETF_mapplot.png)
  
  - What are the top performing ETF's.
+     
+     ![top_performers](top_performers.png)
+ 
  - The daily returns distribution, and cumulative returns.
+     
      ![Cumulative_returns_plot](top_etf_cumrtn_plot.png)
 
  - Correlations in the top 2 ETF's.
+    
     ![BiVariate_plot](bivariate.png)
     ![ScatterPlot](scatterplot.png)
     
  - Risk of the tops ETF's.
+    
     ![topETF_std_dev_plot](top_etf_stddev_plot.png)
     ![Rolling_std_dev_plot](top_etf_roll_std_plot.png)
+    
  - Review of the Sharpe Ratio's for the ETFs.
+ 
+    ![sharpe_ratios](sharpe_ratios.png)
+ 
  - Which companies are most green (*note partial data).
+    
     ![esg_bar](esg_company_bar.png)
 
 
 
-## Conclusions. This should include a numerical summary (i.e., what data did your analysis yield), as well as visualizations of that summary (plots of the final analysis data).
+## Summary of Findings (refer to above for visualisations and data analysis):
+
  - SOXL and TQQQ had the best returns however they are 3x leveraged, and high risk & volatile.
  - The Vanguard fund VSBSX has the highest Sharpe Ratio and lowest standard deviation (and overall risk) although very low returns.
  - MGM Consulting’s recommendation for Mrs Buffett would be the 3rd and 4th ranked ETF’s (SMH and ARKK) with good average returns and a good std dev and Sharpe Ratio.

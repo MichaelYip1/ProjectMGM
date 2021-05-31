@@ -1,7 +1,7 @@
 # Project1_Fintech_SydUni
 ## Team: MGM - Mike Rae, Grace Ho, Michael Yip
 
-# OLD LADY BUFFET
+# Project Name: "OLD LADY BUFFETT"
 
 # Core hypothesis
 ## That Warren Buffet's suggested ETFs were not the best choice for Mrs Buffet's eventual inheritance.

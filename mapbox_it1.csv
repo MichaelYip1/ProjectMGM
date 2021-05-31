@@ -1,0 +1,47 @@
+Country,Exchange,Latitude,Longitude,Country,ETFs
+Australia,ASX,-25.274398,133.775136,Australia,4
+Austria,VIE,47.516231,14.550072,Austria,1
+Belgium,EBR,50.503887,4.469936,Belgium,1
+Brazil,BVMF,-14.235004,-51.92528,Brazil,8
+Canada,TSE,56.130366,-106.346771,Canada,7
+China,SHA,35.86166,104.195397,China,51
+China,SHE,35.86166,104.195397,China,51
+Denmark,CPH,56.26392,9.501785,Denmark,1
+Egypt,CAI,26.820553,30.802498,Egypt,1
+Finland,HEL,61.92411,25.748151,Finland,1
+France,EPA,46.227638,2.213749,France,1
+Germany,FRA,51.165691,10.451526,Germany,7
+Germany,FRA,51.165691,10.451526,Germany,7
+Germany,ETR,51.165691,10.451526,Germany,7
+Greece,ATH,39.074208,21.824312,Greece,1
+Hong Kong,HKG,22.396428,114.109497,Hong Kong,2
+India,BOM,20.593684,78.96288,India,12
+India,NSE,20.593684,78.96288,India,12
+Indonesia,JAK,-0.789275,113.921327,Indonesia,2
+Ireland,IRE,53.41291,-8.24389,Ireland,1
+Israel,TLV,31.046051,34.851612,Israel,4
+Italy,BIT,41.87194,12.56738,Italy,1
+Japan,TYO,36.204824,138.252924,Japan,23
+Malaysia,KUL,4.210484,101.975766,Malaysia,1
+Mexico,BMV,23.634501,-102.552784,Mexico,4
+New Zealand,NZE,-40.900557,174.885971,New Zealand,1
+Pakistan,KAR,30.375321,69.345116,Pakistan,1
+Philippines,PSE,12.879721,121.774017,Philippines,1
+Poland,WSE,51.919438,19.145136,Poland,1
+Portugal,ELI,39.399872,-8.224454,Portugal,1
+Russia,MCX,61.52401,105.318756,Russia,3
+Singapore,SGX,1.352083,103.819836,Singapore,2
+South Africa,JNB,-30.559482,22.937506,South Africa,1
+South Korea,KRX,35.907757,127.766922,South Korea,3
+South Korea,KOSDAQ,35.907757,127.766922,South Korea,3
+Spain,BME,40.463667,-3.74922,Spain,1
+Sweden,STO,60.128161,18.643501,Sweden,1
+Switzerland,SWX,46.818188,8.227512,Switzerland,3
+Switzerland,VTX,46.818188,8.227512,Switzerland,3
+Taiwan,TPE,23.69781,120.960515,Taiwan,2
+Thailand,BKK,15.870032,100.992541,Thailand,1
+Netherlands,AMS,52.132633,5.291266,Netherlands,1
+Turkey,IST,38.963745,35.243322,Turkey,1
+United Arab Emirates,DFM,23.424076,53.847818,United Arab Emirates,1
+United Kingdom,LON,55.378051,-3.435973,United Kingdom,5
+United Kingdom,LON,55.378051,-3.435973,United Kingdom,5

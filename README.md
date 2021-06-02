@@ -31,7 +31,7 @@ We also considered ESC (Environmental, Social, and (Corporate) Governance) ratin
 
 Daily close price data for 561 ETFs over a decade was obtained.  They had to be broken up into 30 smaller data requests and pulled into Jupyter Lab.  
 
-### Refer to Close_price_analysis.ipynb file:
+### Refer to Close_price_analysis_finalv1.ipynb file:
 
 The cumulative returns were reviewed based on 4 time horizons: 1, 3, 5 and 10 year returns.  The top 20 ETFs for each of these time horizons were extracted, resulting in 51 ETFs.
 The top 20 ETFs from each timeframe were given a score based on their rank, and an overall ranking obtained over the 4 time horizons.

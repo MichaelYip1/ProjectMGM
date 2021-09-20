@@ -1,4 +1,4 @@
-# Project1_Fintech_SydUni
+# Project MGM
 ## Team: MGM - Mike Rae, Grace Ho, Michael Yip
 
 # Project Name: "OLD LADY BUFFETT"
